@@ -4,7 +4,7 @@
 ---
 
 ### 👩‍💻 About Me
-
+- 👋 Hi, I’m @SnehaDeepikaP
 - 👀 I’m interested in **AI, cloud technologies, and open-source development**
 - 🌱 Currently learning **cloud technologies** (AWS ☁️, Docker 🐳, Kubernetes ☸️)
 - 💞️ Looking to collaborate on **Machine Learning**, **Women-in-Tech Initiatives**, and **Data Science** projects
@@ -36,15 +36,6 @@
 
 ---
 
-### 🧩 Fun Facts
-
-- 🧠 My coding playlist ranges from lo-fi to Indian classical
-- 🤖 I treat my AI models like colleagues
-- 🍜 Maggi + debugging = power combo
-- 🧘‍♀️ I meditate while waiting for builds to complete
-- 🌟 I aim to use tech for **social impact** and empowerment!
-
----
 
 ### 🌐 Connect With Me
 
